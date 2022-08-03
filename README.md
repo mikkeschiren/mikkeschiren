@@ -1,13 +1,14 @@
-### Hi there 👋
+### 
 
 
 
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikkeschiren&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkeschiren&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikkeschiren&show_icons=true&locale=en&layout=compact&hide=assembly" />
 </p>
 
+⚡ Fun fact: I am listed as a translator on a book without words.
 
 
 
@@ -16,8 +17,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
