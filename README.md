@@ -1,6 +1,6 @@
 ### Mikke Schirén
 
-Tech lead for [Digitalist Net Services](https://digitalist.se)
+CTO for [Digitalist Open Cloud](https://digitalist.cloud)
 
 
 
@@ -9,7 +9,7 @@ Tech lead for [Digitalist Net Services](https://digitalist.se)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikkeschiren&show_icons=true&locale=en&layout=compact&hide=assembly" />
 </p>
 
-⚡ Fun fact: I am listed as a translator on a book without words.
+⚡ Fun fact: I am listed as a translator on two books without words, and as texter for one book without any text.
 
 
 
